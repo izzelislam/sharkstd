@@ -17,10 +17,11 @@ use Illuminate\Support\Facades\Route;
 //     return view('welcome');
 // });
 
-Route::get('/', function () {
-    return view("bo.layouts.app");
-});
 
 require __DIR__.'/main.php';
 require __DIR__.'/customer.php';
 require __DIR__.'/admin.php';
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

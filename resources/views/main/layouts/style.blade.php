@@ -1,0 +1,9 @@
+<link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,400,600,700,800,900&display=swap" rel="stylesheet">
+<!-- build:css -->
+<link rel="stylesheet" href="/main/assets/vendor/css/line-awesome.css">
+<link rel="stylesheet" href="/main/assets/vendor/css/swiper.min.css">
+<link rel="stylesheet" href="/main/assets/css/bootstrap-custom.css">
+<link rel="stylesheet" href="/main/assets/css/theme.css">
+<!-- endbuild -->
+<link rel="stylesheet" href="/main/assets/css/custom.css">
+<link rel="stylesheet" href="/main/assets/css/rtl.css">
