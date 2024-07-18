@@ -12,7 +12,7 @@
         <!-- Title -->
         <title>Shark-STD - Back Office</title>
 
-        </style>
+        {{-- </style> --}}
         @include("bo.layouts.style")
         @stack("addon-style")
     </head>
